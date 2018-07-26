@@ -1,0 +1,106 @@
+.content {
+    width: 1200px;
+    margin: auto;
+}
+
+.logo > img{
+    display: inline-block;
+    width: 150px;
+    margin: 50px;
+}
+h1{
+    display: inline-block;
+    position: absolute;
+    top: 90px;
+    left: 350px;
+}
+.box{
+    display: inline-block;
+    position: relative;
+    left: 250px;
+    bottom: 50px;
+
+}
+
+.boy > img{
+    display: inline-block;
+    margin-left: 20px;
+    width: 200px;
+}
+h2{
+    font-size: 1.8em;
+    font-weight: bold;
+    position: relative;
+    bottom: 350px;
+    left: 280px;
+}
+.paragraphs{
+    position: absolute;
+    top: 350px;
+    left: 350px;
+}
+.enter{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.space{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.line{
+    margin-left: 20px;
+}
+a{
+    text-decoration: underline;
+}
+.mission{
+    position: relative;
+    bottom: 110px;
+    left: 20px;
+}
+.vision{
+    position: relative;
+    bottom: 110px;
+    left: 20px;
+}
+.gi{
+    position: relative;
+    bottom: 110px;
+    left: 20px;
+}
+h3{
+    position: relative;
+    bottom: 100px;
+    left: 20px;
+}
+
+a{
+    text-decoration-line: underline;
+}
+.active{
+    color: black;
+    text-decoration-line: none;
+
+} 
+.image1{
+    display: none;
+}
+
+.subtitle{
+    display: none;
+}
+.events{
+    display: inline-block;
+    position: absolute;
+    top: 300px;
+    left: 300px;
+}
+.imago > img{
+    display: none;
+}
+.logus > img{
+    display: none
+}
+.boys > img{
+    display: none;
+}
